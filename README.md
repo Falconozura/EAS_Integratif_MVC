@@ -45,3 +45,6 @@ Fancista Syarif Hidayatullah - 05311840000027
 * `insert($data)` digunakan untuk menambah data kedalam `identitas`
 * `check($data)` digunakan untuk mengambil data id, pass dari `identitas` untuk dicocokkan dengan input user
 * `change($id, $data)` digunakan untuk merubah beberapa data kedalam `identitas` sesuai dengan id
+
+**Problem**
+* Entah kenapa saat saya coba run ini error, dan saya tidak paham cara memperbaikinya
