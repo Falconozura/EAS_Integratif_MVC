@@ -1,6 +1,6 @@
 # EAS_Integratif_MVC
 
-#Fancista Syarif Hidayatullah - 05311840000027
+Fancista Syarif Hidayatullah - 05311840000027
 
 ## Controllers
 **SumbanganController.php**
